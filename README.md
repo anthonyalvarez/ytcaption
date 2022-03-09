@@ -50,3 +50,6 @@ This repo was made for the [2022 Microsoft Azure Trial Hackathon on DEV!](https:
    ```
 2. Make changes and test
 3. Submit Pull Request with comprehensive description of changes
+
+
+### [License](./LICENSE)

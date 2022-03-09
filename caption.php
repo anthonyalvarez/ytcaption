@@ -1,7 +1,6 @@
 <?php
 
 # YouTube Transcriber
-# http://techleadpro.com/ytcaption/
 
 $url = $_GET['url'];
 $url = json_decode('"' . $url.'"');
