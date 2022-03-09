@@ -17,7 +17,7 @@ if (!match) {
   return;
 }
 var url = regexp.exec(document.body.innerHTML)[1];
-open("http://techleadpro.com/ytcaption/caption.php?url=" + encodeURIComponent(url));
+open("https://ytcaption.azurewebsites.net/ytcaption/caption.php?url=" + encodeURIComponent(url));
 EOF;
 
 $code = encodeURIComponent($code);
